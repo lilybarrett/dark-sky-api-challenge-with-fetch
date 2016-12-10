@@ -1,0 +1,7 @@
+---
+title: "Weather.js"
+type: "exercise"  # challenge, exercise, article, tutorial, video
+description: "Get the current weather conditions."
+tags: "javascript, fetch"
+ignore:
+- "weather-js.md"
